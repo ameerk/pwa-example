@@ -1,0 +1,11 @@
+{
+  "name": "pwa-tutorial",
+  "version": "1.0.0",
+  "description": "progressive web app official example ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ameer khalaf",
+  "license": "ISC"
+}
